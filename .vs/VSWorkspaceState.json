@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\apps",
+    "\\apps\\desktop",
+    "\\packages",
+    "\\packages\\core"
+  ],
+  "SelectedNode": "\\apps\\desktop\\electron.vite.config.ts",
+  "PreviewInSolutionExplorer": false
+}
